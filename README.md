@@ -1,4 +1,4 @@
-# Template for simple projects using C++ and CMake
+# Library of bandit algorithms in C++
 
 
 ## Compiling and testing
